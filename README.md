@@ -19,4 +19,4 @@ A dashboard was created to visualize key insights.
 - West region has the highest sales performance.
 - Technology category generates the most revenue.
 - Sales increase toward the end of the year.
-- A few products contribute most of the revenue.# FUTURE_DS_01
+- A few products contribute most of the revenue.
